@@ -16,6 +16,34 @@ npx add-skill giulioco/skills --skill social-growth-engineer
 
 ## Available Skills
 
+### 🎨 nano-banana-prompt
+
+Master prompt engineering for Nano Banana Pro (Gemini) image generation.
+
+**What it does**: Comprehensive guide for crafting highly effective prompts for Nano Banana Pro. Provides proven patterns, technical specifications, JSON structuring, and identity preservation techniques based on analyzing 60+ successful prompts.
+
+**Use when**:
+- Generating photorealistic portraits
+- Creating product photography and e-commerce mockups
+- Building creative experiments (3D renders, dioramas, surreal effects)
+- Crafting era-specific aesthetics (Y2K, 2000s, 1990s)
+- Editing and transforming images
+- Preserving facial identity across transformations
+
+**Knowledge includes**:
+- Identity preservation techniques
+- Technical specifications (cameras, lenses, lighting, film stocks)
+- 5 comprehensive reference guides (photorealism, creative experiments, product/commercial, editing, JSON templates)
+- Era-specific templates (2000s mirror selfie, Y2K scrapbook, 1990s flash photography)
+- Quick reference templates for common use cases
+- Advanced techniques (multi-element scenes, negative prompts, text integration)
+
+**Size**: 38 KB (SKILL.md + 5 reference files)
+
+[View Details →](skills/nano-banana-prompt/)
+
+---
+
 ### 🚀 social-growth-engineer
 
 Master viral app growth through organic social media marketing.
@@ -114,7 +142,15 @@ skills/
 ├── CONTRIBUTING.md                 # Contribution guidelines
 ├── .gitignore
 └── skills/
-    └── social-growth-engineer/     # Individual skill
+    ├── nano-banana-prompt/         # Nano Banana Pro prompt engineering
+    │   ├── SKILL.md                # Main skill file
+    │   └── references/             # Supporting documentation
+    │       ├── photorealism-portraits.md
+    │       ├── creative-experiments.md
+    │       ├── product-commercial.md
+    │       ├── editing-transformation.md
+    │       └── json-structure-guide.md
+    └── social-growth-engineer/     # Viral app growth
         ├── SKILL.md                # Main skill file
         └── references/             # Supporting documentation
             ├── complete-playbook.md
