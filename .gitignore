@@ -38,3 +38,13 @@ ENV/
 
 # Keep skills directory
 !skills/
+
+# AI
+.cursor/
+.agent/
+.agents/
+.codex/
+.claude/
+.gemini/
+.opencode/
+.windsurf/
