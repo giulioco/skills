@@ -71,6 +71,36 @@ Master viral app growth through organic social media marketing.
 
 ---
 
+### 📈 postbridge-social-growth
+
+Organic growth coach using the Post Bridge methodology.
+
+**What it does**: Acts as a personalized organic growth coach for apps, products, and businesses seeking traffic from TikTok and Instagram short-form video. Based on the Post Bridge system that generated 500M+ views, 132K+ downloads, and $33K+ revenue with zero paid ads.
+
+**Use when**:
+- Starting organic social media growth from scratch
+- Warming up new TikTok/Instagram accounts
+- Finding winning content formats (content-market fit)
+- Converting views into app downloads or customers
+- Writing conversion-optimized social media bios
+- Riding trends for momentum
+- Scaling to multiple accounts and platforms
+
+**Knowledge includes**:
+- Complete 30-day growth roadmap
+- 7-day account warmup protocol
+- Content-market fit testing framework
+- Conversion funnel optimization (views → downloads)
+- Trend identification and adaptation playbook
+- Three-phase scaling framework
+- Bio writing formulas and CTA strategies
+
+**Size**: 12 KB (SKILL.md + 1 reference file)
+
+[View Details →](skills/postbridge-social-growth/)
+
+---
+
 ## Installation
 
 ### Install All Skills
@@ -150,12 +180,16 @@ skills/
     │       ├── product-commercial.md
     │       ├── editing-transformation.md
     │       └── json-structure-guide.md
-    └── social-growth-engineer/     # Viral app growth
+    ├── social-growth-engineer/     # Viral app growth
+    │   ├── SKILL.md                # Main skill file
+    │   └── references/             # Supporting documentation
+    │       ├── complete-playbook.md
+    │       ├── hooks-and-formats.md
+    │       └── case-studies.md
+    └── postbridge-social-growth/   # Post Bridge organic growth coach
         ├── SKILL.md                # Main skill file
         └── references/             # Supporting documentation
-            ├── complete-playbook.md
-            ├── hooks-and-formats.md
-            └── case-studies.md
+            └── methodology.md
 ```
 
 ## Skills Roadmap
