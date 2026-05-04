@@ -71,6 +71,39 @@ Master viral app growth through organic social media marketing.
 
 ---
 
+### 📊 growth-hacker
+
+Diagnose the real growth bottleneck and prescribe the next move, using the unified frameworks from three foundational growth books.
+
+**What it does**: Synthesizes Ryan Holiday's *Growth Hacker Marketing*, Sean Ellis & Morgan Brown's *Hacking Growth*, and Weinberg & Mares' *Traction* into a single diagnostic + prescriptive system. Refuses to recommend tactics before diagnosing the stage — "founders pick the channel they're comfortable with, not the one their stage needs" is the #1 growth mistake.
+
+**Use when**:
+- Stuck at a revenue plateau and not sure why
+- Choosing between marketing channels
+- Diagnosing a leaky funnel (low conversion, low activation, low retention)
+- Searching for product-market fit
+- Designing a viral loop or referral program
+- Picking a North Star metric or growth equation
+- Running a weekly growth-experiment cycle (ICE scoring)
+
+**Knowledge includes**:
+- 4-level diagnostic model (PMF → Aha → Channel → Optimization)
+- Sean Ellis 40% test (with the 5 companion questions verbatim)
+- Aha-moment thresholds from Facebook, Twitter, Slack, Dropbox, Uber, Instagram, eBay
+- The Growth Equation (Inman, eBay, Amazon examples)
+- Activation playbook (HubSpot Sidekick's 11→12 experiments, Etsy, Tinder)
+- Retention playbook (smile graph, cohort analysis, three phases)
+- Engineered virality (Holiday's principles + viral math K = i × c)
+- The full 19-channel Bullseye taxonomy with $1k test design per channel
+- Weekly growth cycle + ICE scoring (verbatim Ellis methodology)
+- Mindset quotes from Holiday, Andreessen, Thiel, Ellis, Andrew Chen
+
+**Size**: ~80 KB (SKILL.md + 9 reference files + 19 channel deep-dives)
+
+[View Details →](skills/growth-hacker/)
+
+---
+
 ### 📈 postbridge-social-growth
 
 Organic growth coach using the Post Bridge methodology.
@@ -186,10 +219,23 @@ skills/
     │       ├── complete-playbook.md
     │       ├── hooks-and-formats.md
     │       └── case-studies.md
-    └── postbridge-social-growth/   # Post Bridge organic growth coach
-        ├── SKILL.md                # Main skill file
-        └── references/             # Supporting documentation
-            └── methodology.md
+    ├── postbridge-social-growth/   # Post Bridge organic growth coach
+    │   ├── SKILL.md                # Main skill file
+    │   └── references/             # Supporting documentation
+    │       └── methodology.md
+    └── growth-hacker/              # Holiday + Ellis + Weinberg synthesis
+        ├── SKILL.md                # Main skill file (diagnostic router)
+        └── references/             # Frameworks + 19 channel deep-dives
+            ├── pmf.md
+            ├── aha-moment.md
+            ├── growth-equation.md
+            ├── activation.md
+            ├── retention.md
+            ├── virality.md
+            ├── bullseye.md
+            ├── growth-process.md
+            ├── mindset.md
+            └── channels/           # 19 channel files + index
 ```
 
 ## Skills Roadmap
