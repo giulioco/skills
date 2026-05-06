@@ -104,6 +104,40 @@ Diagnose the real growth bottleneck and prescribe the next move, using the unifi
 
 ---
 
+### 💼 ultimate-sales
+
+Master sales coaching skill synthesizing six foundational books into a single working system.
+
+**What it does**: Distills *SPIN Selling* (Rackham), *Fanatical Prospecting* (Blount), *Gap Selling* (Keenan), *The Challenger Sale* (Dixon & Adamson), *Never Split the Difference* (Voss), and *How to Win Friends & Influence People* (Carnegie) into a stage-aware sales coach. Diagnoses where you are in the journey first, then prescribes the right move from the right book — most sales failures come from using a small-sale tactic in a big-sale context, pitching before diagnosing, or arguing instead of asking.
+
+**Use when**:
+- Drafting cold emails, DMs, follow-ups, or any outbound outreach
+- Preparing for or reviewing discovery calls, demos, or QBRs
+- Handling pricing pushback, objections, or stalled deals
+- Negotiating contracts, terms, or salary
+- Planning ICP, messaging architecture, channel sequencing, or pipeline math
+- Coaching reps or being coached
+- Reviewing your own sales messaging
+
+**Knowledge includes**:
+- The diagnose-first sales loop (5-question pre-flight check before any tactic)
+- SPIN question arsenal (Situation / Problem / Implication / Need-payoff) with example banks
+- Gap Selling Problem Identification Chart (PIC) for pre-call planning
+- Challenger 6-step Commercial Teaching choreography (Warmer → Reframe → Rational Drowning → Emotional Impact → New Way → Solution)
+- Voss tactical empathy toolkit (mirroring, labeling, accusation audit, calibrated questions, Ackerman bargaining model, "no"-oriented framing)
+- Blount prospecting playbook (30-Day Rule, Golden Hours, 5-step phone framework, voicemail framework, RBO turnarounds, combo prospecting)
+- Carnegie influence principles cross-walked to modern sales (where Carnegie holds, where modern research overrides)
+- 12+ verbatim email templates (cold outbound, follow-up, re-engagement, pricing, internal)
+- 20+ verbatim phone scripts and objection turnarounds
+- Voss one-page negotiation prep template
+- Full extracts of all six books (~4,200 lines) for deep reference
+
+**Size**: ~280 KB (SKILL.md + 6 frameworks + 3 asset packs + 6 book extracts)
+
+[View Details →](skills/ultimate-sales/)
+
+---
+
 ### 📈 postbridge-social-growth
 
 Organic growth coach using the Post Bridge methodology.
@@ -223,19 +257,39 @@ skills/
     │   ├── SKILL.md                # Main skill file
     │   └── references/             # Supporting documentation
     │       └── methodology.md
-    └── growth-hacker/              # Holiday + Ellis + Weinberg synthesis
-        ├── SKILL.md                # Main skill file (diagnostic router)
-        └── references/             # Frameworks + 19 channel deep-dives
-            ├── pmf.md
-            ├── aha-moment.md
-            ├── growth-equation.md
-            ├── activation.md
-            ├── retention.md
-            ├── virality.md
-            ├── bullseye.md
-            ├── growth-process.md
-            ├── mindset.md
-            └── channels/           # 19 channel files + index
+    ├── growth-hacker/              # Holiday + Ellis + Weinberg synthesis
+    │   ├── SKILL.md                # Main skill file (diagnostic router)
+    │   └── references/             # Frameworks + 19 channel deep-dives
+    │       ├── pmf.md
+    │       ├── aha-moment.md
+    │       ├── growth-equation.md
+    │       ├── activation.md
+    │       ├── retention.md
+    │       ├── virality.md
+    │       ├── bullseye.md
+    │       ├── growth-process.md
+    │       ├── mindset.md
+    │       └── channels/           # 19 channel files + index
+    └── ultimate-sales/             # Rackham + Blount + Keenan + Dixon + Voss + Carnegie synthesis
+        ├── SKILL.md                # Main skill file (stage-aware coach)
+        ├── frameworks/             # Synthesis layer
+        │   ├── diagnose-first.md
+        │   ├── question-arsenal.md
+        │   ├── reframe-and-teach.md
+        │   ├── tactical-empathy.md
+        │   ├── prospecting-playbook.md
+        │   └── influence-principles.md
+        ├── assets/                 # Templates and scripts
+        │   ├── email-templates.md
+        │   ├── call-scripts.md
+        │   └── negotiation-prep.md
+        └── references/             # Full book extracts
+            ├── spin-selling.md
+            ├── fanatical-prospecting.md
+            ├── gap-selling.md
+            ├── challenger-sale.md
+            ├── never-split-the-difference.md
+            └── how-to-win-friends.md
 ```
 
 ## Skills Roadmap
