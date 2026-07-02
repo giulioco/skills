@@ -168,6 +168,32 @@ Organic growth coach using the Post Bridge methodology.
 
 ---
 
+### ✍️ galloway-storytelling
+
+Rewrite any writing to be more engaging using Scott Galloway's (Prof G) storytelling playbook.
+
+**What it does**: Sharpens flat, dry, or forgettable writing into punchy, story-driven prose using a small set of named, teachable moves — the Wow Test, Data Elevation, the Hook, Assume Intimacy, More Drama, and Zoom Out. Edits by cutting and elevating, not by adding words, and hands back both the rewrite and a short rationale naming which moves were applied.
+
+**Use when**:
+- A newsletter, LinkedIn/X post, or build-in-public update feels flat
+- A draft opens with throat-clearing or buries its best line
+- Big numbers land as abstractions ("$320B is huge") instead of feelings
+- A pitch, cold email, launch announcement, or landing-page copy needs punch
+- You want to learn the craft, not just get an edit — each rewrite names the technique
+
+**Knowledge includes**:
+- The six core Galloway moves, each with a rule, a why, and worked examples
+- The four Data Elevation yardsticks (time, size, familiar object, baseline)
+- The six Hook types and a warm-up detector for buried ledes
+- The Assume Intimacy "kill list" of hedges and filler
+- An extended reference: the Crocs Test, Anchored Provocation, Vulnerability, Visualization, with Galloway's exact quotes and sources
+
+**Size**: ~15 KB (SKILL.md + 1 reference file)
+
+[View Details →](skills/galloway-storytelling/)
+
+---
+
 ## Installation
 
 ### Install All Skills
