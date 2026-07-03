@@ -168,6 +168,30 @@ Organic growth coach using the Post Bridge methodology.
 
 ---
 
+### 🔎 xquik-social-intelligence
+
+Analyze X data from Xquik for creator, audience, and content-growth opportunities.
+
+**What it does**: Guides Claude through using Xquik exports, REST API results, or MCP output to identify audience themes, high-intent phrases, creator segments, and social content angles for apps and products.
+
+**Use when**:
+- Researching X conversations around a product category
+- Finding creator or account segments to monitor
+- Turning Xquik API results into a social growth brief
+- Prioritizing content angles from X posts, profiles, trends, or search results
+
+**Knowledge includes**:
+- Xquik public API and MCP references
+- Opportunity scoring for purchase intent, pain, relevance, recency, and engagement
+- Guardrails for API keys, sensitive inference, and source-backed reporting
+- Report structure for product-led social growth analysis
+
+**Size**: 8 KB (SKILL.md + reference file)
+
+[View Details →](skills/xquik-social-intelligence/)
+
+---
+
 ### ✍️ galloway-storytelling
 
 Rewrite any writing to be more engaging using Scott Galloway's (Prof G) storytelling playbook.
